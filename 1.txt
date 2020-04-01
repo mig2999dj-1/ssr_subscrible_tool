@@ -112,7 +112,7 @@ Proxy:
 
 
 
-# 配置开始
+ 配置开始
 - name: "mig2999dj.gq-la"
   type: vmess
   server: mig2999dj.gq
